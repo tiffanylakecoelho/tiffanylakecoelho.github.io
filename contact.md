@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Contact Me
 
-* Phone: [+91-123123](tel:+91-123123)
+[Email](mailto:tiffanylakecoelho@gmail.com)
+
+[Student Email](mailto:t.coelho@student.fdu.edu)
+
+[Phone](tel:973-908-7669)
+
+[LinkedIn](https://www.linkedin.com/in/tiffanycoelho/) 
+
+## Job Availability 2024
+
+I am seeking work for the upcoming Summer 2024 and am also interested in co-op opportunities beginning Fall 2024. If you have any questions regarding this availability, please reach out!
 
 ---
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

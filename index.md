@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="careerheadshot.jpg">
 
 Hi! I am a junior year student of B.S. Computer Science at Fairleigh Dickinson University in Madison, New Jersey.
 
@@ -27,9 +27,8 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2023 | FDU Honors Program | Includes research, honors-only study abroad trips, and honors courses
+2021 | Meinig Family Cornell National Scholar | Selective honors program for less than 2% of incoming undergraduates
 
 Here is a horizontal rule
 
