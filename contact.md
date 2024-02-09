@@ -16,5 +16,3 @@ is_contact: true
 ## Job Availability 2024
 
 I am seeking work for the upcoming Summer 2024 and am also interested in co-op opportunities beginning Fall 2024. If you have any questions regarding this availability, please reach out!
-
----
