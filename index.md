@@ -2,43 +2,49 @@
 layout: default
 ---
 
+# Tiffany Lake Coelho
+
 ## About Me
 
 <img class="profile-picture" src="careerheadshot.jpg">
 
-Hi! I am a junior year student of B.S. Computer Science at Fairleigh Dickinson University in Madison, New Jersey.
+I'm an honors student at Fairleigh Dickinson University, where I'm studying Computer Science with a concentration in Cybersecurity and a minor in Mathematics.
 
-I'm pursuing concentrations in both Cybersecurity and Game Design. I'm a member of the University Honors Program. I am open to work and am always welcoming new connections!
+I started my undergraduate at Cornell University, where I was recognized as a [Meinig Family Cornell National Scholar](https://scl.cornell.edu/get-involved/cornell-commitment/meinig-family-cornell-national-scholars/membership). I'm continuing my degree at FDU, where I'm an active member of their [Honors Program](https://www.fdu.edu/academics/honors/university-honors-program/) and maintain a 4.0 GPA. I'm currently conducting research in Artificial Intelligance & Machine Learning with Professor [Neelu Sinha](https://www.fdu.edu/profiles/neelu_sinha/).
 
-## Research Interest
+ I am pursuing an internship in the Cybersecurity industry for the Summer of 2024. I'm open to work and am always welcoming new connections!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Activities
 
-## Publications
+1. CAHSI Local Research:
+2. Founder of FDU Game Dev: 
+3. 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Honors & Awards
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
+Year | Award | Description
 -----|-------|--------
+2024 | CAHSI Research Scholar |
+2024 | NRHC Presenter |
 2023 | FDU Honors Program | Includes research, honors-only study abroad trips, and honors courses
 2021 | Meinig Family Cornell National Scholar | Selective honors program for less than 2% of incoming undergraduates
 
-Here is a horizontal rule
+## Coursework
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Year | Course
+-----|-------
+2024 | Cryptography
+2024 | Cybersecurity
+2024 | Operating Systems
+2024 | Info Security Design & Management
+2024 | Crime & Criminology
+2023 | Computer Ethics
+2023 | Data Comm & Computer Networks
+2023 | Artificial Intelligence
+2022 | Computer Organization
+2022 | Multi-Variable Advanced Calculus
+2022 | Data Structures & Functional Programming
+2022 | Discrete Structures
+2022 | Linear Algebra
+2021 | Object Oriented Design & Data Structures
+2021 | Intermediate C++ Programming

@@ -1,4 +1,4 @@
-title: Tiffany L. Coelho
+title: TLC
 url: "https://tiffanylakecoelho.github.io"
 baseurl: ""
 
@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Projects"
+   link: "projects"
  - name: "Resume"
    link: "resume"
  - name: "Books"
