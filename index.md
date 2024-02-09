@@ -26,6 +26,7 @@ Year | Award | Description
 -----|-------|--------
 2024 | CAHSI Research Scholar |
 2024 | NRHC Presenter |
+2023 | Dean's List | 
 2023 | FDU Honors Program | Includes research, honors-only study abroad trips, and honors courses
 2021 | Meinig Family Cornell National Scholar | Selective honors program for less than 2% of incoming undergraduates
 
