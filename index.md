@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Tiffany Lake Coelho
-
 ## About Me
 
 <img class="profile-picture" src="careerheadshot.jpg">
