@@ -4,6 +4,10 @@ layout: default
 
 # Projects
 
+Following is a description of technical projects I have conducted or contributed to since 2021. Repositories for these projects can be found on [my Github](https://github.com/tiffanylakecoelho).
+
+---
+
 ## PicoCraft
 Studied and implemented 2D Perlin noise for a top-down, town-building game in PICO-8. Challenged the limitations of the PICO-8 engine by implementing a theoretically infinite world.
 
